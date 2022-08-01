@@ -1,0 +1,6 @@
+Ссылки:
+
+0. GitHub - https://github.com/Weytaricla/autotests_workshop
+
+1. Python - https://www.python.org/downloads/
+2. Chromedriver - https://chromedriver.chromium.org/
