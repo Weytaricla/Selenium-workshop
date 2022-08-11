@@ -1,3 +1,4 @@
+#Импорт описания страницы
 from DigexPages import FormFiller
 
 # Пользовательский сценарий
