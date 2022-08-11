@@ -4,3 +4,6 @@
 
 1. Python - https://www.python.org/downloads/
 2. Chromedriver - https://chromedriver.chromium.org/
+3. Документация для HTML - http://htmlbook.ru/html
+4. Сравнение раннеров - https://www.pythonpool.com/python-unittest-vs-pytest/#:~:text=Which%20is%20better%20%E2%80%93%20pytest%20or,testing%20functions%20within%20that%20class.
+5. Pytest - https://habr.com/ru/post/269759/
