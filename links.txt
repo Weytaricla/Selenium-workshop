@@ -1,6 +1,8 @@
 Ссылки:
 
-0. GitHub - https://github.com/Weytaricla/autotests_workshop
-
 1. Python - https://www.python.org/downloads/
 2. Chromedriver - https://chromedriver.chromium.org/
+3. HTMLBook - http://htmlbook.ru/
+4. Python VS Selenium - https://www.pythonpool.com/python-unittest-vs-pytest/#:~:text=Pytest%20has%20rich%20inbuilt%20features,assert%20the%20conditions%20inside%20them.
+5. Pytest - https://habr.com/ru/post/269759/
+6. XPath - https://msiter.ru/tutorials/xpath
